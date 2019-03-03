@@ -6,8 +6,8 @@ def assign_variable(value)
 puts ("name" = value)
 end
 
-def argue
-
+def argue(argument)
+  puts "argument"
 end
 
 def greeting
@@ -25,3 +25,4 @@ end
 def pizza_party
 
 end
+  
